@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: sage
+# key: sage...
+# --
+<sage>
+  <input>
+  $1
+  </input>
+</sage>
+
+$0

@@ -1,0 +1,12 @@
+# -*- mode: snippet -*-
+# name: figure
+# key: fig...
+# --
+<figure xml:id="$1">
+  <caption>$2</caption>
+  <image width="100%" source="$3">
+    <description>$4</description>
+  </image>
+</figure>
+
+$0

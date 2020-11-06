@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: statement
+# key: state...
+# --
+<statement>
+$1
+</statement>
+
+$0
